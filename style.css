@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    display: flex;
+}
+
+#left-container{
+    color: #be1622;
+    height: 100%;
+    width: 400px;
+    background-color: #f6f6f6;
+}
+
+#image-add{
+    height: 30px;
+    width: 30px;
+}
+
+#image-id{
+    height: 40px;
+    width: 40px;
+    margin-right: 15px;
+}
+
+#search-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+#search-input{
+    width: 400px;
+}
+
+#nav-row{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+
+#collection-header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+
+#category-row{
+    display: flex;
+}
+
+#subscription-info{
+    display: flex;
+}
